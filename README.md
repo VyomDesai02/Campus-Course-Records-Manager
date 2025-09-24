@@ -239,7 +239,7 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 **Author**: Vyom Desai<br> 
 **Reg. No.**: 24BCE10318<br>
-**Course**: (CSE2006) Programming in Java
+**Course**: (CSE2006) Programming in Java</br>
 **Institution**: Vellore Institute of Technology, Bhopal  
 **Date**: 2025-09-24  
 **Version**: 1.01
