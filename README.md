@@ -201,7 +201,6 @@ The project is organized into logical packages to separate concerns and adhere t
 * **edu.ccrm.service**: This is the business logic layer. It includes a generic **`DataService` interface** and concrete service classes for each entity (`StudentService`, `CourseService`, `InstructorService`, `EnrollmentService`, `ReportService`). This demonstrates **polymorphism** and the **Singleton Pattern** (via the service instances in the main app).
 * **edu.ccrm.cli**: Contains the main `CCRMApp` class, which serves as the application's entry point and menu-driven **Command-Line Interface (CLI)**.
 * **edu.ccrm.util**: An optional package for utility classes, such as the `LogUtil` class, which provides consistent logging functionality.
-![Package Structure](URL of your uploaded image)
 
 ## Enabling Assertion
 
